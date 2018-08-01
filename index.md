@@ -1,8 +1,8 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "lc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "UNC Library-SILS"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "UNC Library, Research Hub, Davis Library, 208 Raleigh St, Chapel Hill, NC"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "The University of North Carolina at Chapel Hill University Libraries and School of Information and Library Science"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "The University of North Carolina at Chapel Hill University Libraries, Research Hub, Davis Library, 208 Raleigh St, Chapel Hill, NC"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "35.911048,-79.0502437"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
