@@ -462,17 +462,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       <h4 id="editor-windows">Windows</h4>
       <a href="https://www.youtube.com/watch?v=339AEqk9c-8">Video Tutorial</a>
       <p>
-        nano is a basic editor and the default that instructors use in the workshop.
+        nano is a basic editor. This is a commonly used default, although your lead instructor will use a different tool.
         To install it,
-        download the <a href="{{site.swc_installer}}">
-          {% if page.carpentry == "swc" %}
-          Software Carpentry
-          {% elsif page.carpentry == "dc" %}
-          Data Carpentry
-          {% elsif page.carpentry == "lc" %}
-          Library Carpentry
-          {% endif %}
-          Windows installer
+        download the <a href="https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe">Carpentries Installer
 	</a>
         and double click on the file to run it.
         <strong>This installer requires an active internet connection.</strong>
@@ -480,7 +472,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       <p>
         Others editors that you can use are
         <a href="https://notepad-plus-plus.org/">Notepad++</a> or
-        <a href="https://www.sublimetext.com/">Sublime Text</a>.
+        <a href="https://www.sublimetext.com/">Sublime Text</a> or
+	      <a href="http://brackets.io/">Brackets</a>.
         <strong>Be aware that you must
           add its installation directory to your system path.</strong>
         Please ask your instructor to help you do this.
@@ -489,7 +482,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     <div class="col-md-4">
       <h4 id="editor-macosx">macOS</h4>
       <p>
-        nano is a basic editor and the default that instructors use in the workshop.
+        nano is a basic editor. This is a commonly used default, although your lead instructor will use a different tool.
         See the Git installation <a href="https://www.youtube.com/watch?v=9LQhwETCdwY ">video tutorial</a>
         for an example on how to open nano.
         It should be pre-installed.
@@ -497,13 +490,14 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       <p>
         Others editors that you can use are
         <a href="https://www.barebones.com/products/textwrangler/">Text Wrangler</a> or
-        <a href="https://www.sublimetext.com/">Sublime Text</a>.
+        <a href="https://www.sublimetext.com/">Sublime Text</a> or
+	      <a href="http://brackets.io/">Brackets</a>.
       </p>
     </div>
     <div class="col-md-4">
       <h4 id="editor-linux">Linux</h4>
       <p>
-        nano is a basic editor and the default that instructors use in the workshop.
+        nano is a basic editor. This is a commonly used default, although your lead instructor will use a different tool.
         It should be pre-installed.
       </p>
       <p>
